@@ -1,1 +1,1 @@
-# Raman_Covid
+# Fast and Inexpensive COVID-19 Diagnostic Using Machine Learning and Raman Spectroscopy
