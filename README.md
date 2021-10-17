@@ -1,9 +1,11 @@
+<img align='right' width='300' style="float:right;" src="./Reports/Latex_files/presentation_raman_covid/figures/raman_principle3.png" />
+
 # Rapid COVID-19 Diagnosis using Raman Spectroscopy and Machine Learning
 ## Problem Context
-Diagnosing COVID-19 with the currently used technology - real time polymerase chain reaction (RT-PCR) is not without limitations. Though it
-is sensitive, but has to be conducted in a sophisticated and controlled laboratory environment and hence increases the turn arround time.
-Turn arround time is critical to effectively mitigate pendemics. An alternative technology that is both sensitive and fast in demand to
-tackle current pendemic crisis as well as any potential future pendemics.
+Real time polymerase chain reaction (RT-PCR) as a current technology for diagnosing COVID-19 is not without limitations. Though sensitive, 
+it is sophisticated has to be conducted in a controlled laboratory environment resulting to increased turn arround time.
+Rapid and sensitive diagnostic capability is critical to effectively mitigate pendemics. An alternative technology that is 
+both sensitive and fast is in current demand to tackle current pendemic crisis as well as any potential future pendemics.
 
 ## Proposed solution
 
